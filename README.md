@@ -19,7 +19,7 @@
     <img src="public/Image&Gif/Img_1.PNG" width="350">
     <img src="public/Image&Gif/Img_2.PNG" width="350">
     <img src="public/Image&Gif/Img_3.PNG" width="350">
-    <img src="public/Image&Gif/Img_3.PNG" width="350">
+    <img src="public/Image&Gif/Img_4.PNG" width="350">
   </p>
 </details>
 
