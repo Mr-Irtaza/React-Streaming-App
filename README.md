@@ -1,10 +1,27 @@
- <div align="center">
+# 🎬 Live Movie Streaming App - React
+
+  <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-<h3 align="center">A Movie Application</h3>
+- I used this Project to Learn React & Tailwind CSS to Enhance my Knowledge in React Application.
+- It uses API to fetch Live Real-Time Data & AppWrite for Optimise Trending Search.
+- This Project Runs very well with Nice&Smooth Tailwind Css & Real-Time Data.
+- Remember to Follow the Instructions Carefully to Make it Run.
+
+---
+<img src="public/Image&Gif/Streaming-App.gif">
+<details>
+  <summary align="center"><strong>Demo Images</strong> <p> (Click to Preview) </p></summary>
+  <p align="center">
+    <img src="public/Image&Gif/Img_1.PNG" width="350">
+    <img src="public/Image&Gif/Img_2.PNG" width="350">
+    <img src="public/Image&Gif/Img_3.PNG" width="350">
+    <img src="public/Image&Gif/Img_3.PNG" width="350">
+  </p>
+</details>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -53,7 +70,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Mr-Irtaza/React-Streaming-App.git
-cd moodflix
+cd React-Streaming-APP
 ```
 
 **Installation**
@@ -85,3 +102,17 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+---
+
+## 🐝 License
+This project is open-source under the **MIT License**.
+
+---
+
+## 👨‍💻 Contributing
+Feel free to fork this repository and submit a pull request with improvements! 😊
+
+---
+
+### 🌟 If you find this project helpful, consider giving it a ⭐ on GitHub!
